@@ -11,7 +11,7 @@ const Add = ZkProgram({
       privateInputs: [],
 
       async method(state: Field) {
-        //console.log(' in recurrsion  Add  :  init',Date.now());
+        //console.log(' in recurrsion  Add  Details :  init',Date.now());
         //state.assertEquals(Field(0));
         state.assertEquals(Field(2));
       },
