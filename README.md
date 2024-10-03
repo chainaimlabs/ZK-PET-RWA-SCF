@@ -136,6 +136,7 @@ The same concepts equally apply to other kinds of insurance for business process
 ![Slide4](https://github.com/user-attachments/assets/1b20e815-42c4-47e5-a750-5f5ecac147b6)
 
 
+![Slide7](https://github.com/user-attachments/assets/64fb43d4-78ec-4c37-93a7-66e78fbd04c3)
 
 
 
