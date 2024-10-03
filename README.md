@@ -145,9 +145,7 @@ ALL Proofs at a certain level and below are fully provenanced and provable.
 
 # Presentation : 
 
-[SCF-RWA-v1.pptx](https://github.com/user-attachments/files/16574251/SCF-RWA-v1.pptx)
-
-[ZK-PRET-RWA-SCF-v1.pptx](https://github.com/chainaimlabs/ZK-PET-RWA-SCF/blob/main/scf-main/scf-rwa/zkapps/scf-rwa-recursion/docs/ZK-PRET-SCFReimagined-Deck.pptx)
+[ZK-PRET-SCFReimagined-Deck.pptx](https://github.com/user-attachments/files/17246266/ZK-PRET-SCFReimagined-Deck.pptx)
 
 # Video: 
 
