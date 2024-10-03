@@ -52,7 +52,7 @@ and then for financial health, operational excellence and deep supply chain fina
 
 [SCF-RWA-v1.pptx](https://github.com/user-attachments/files/16574251/SCF-RWA-v1.pptx)
 
-[SCF-RWA-v1.pptx](https://github.com/chainaimlabs/ZK-PET-RWA-SCF/blob/main/scf-main/scf-rwa/zkapps/scf-rwa-recursion/docs/ZK-PRET-SCFReimagined-Deck.pptx)
+[ZK-PRET-RWA-SCF-v1.pptx](https://github.com/chainaimlabs/ZK-PET-RWA-SCF/blob/main/scf-main/scf-rwa/zkapps/scf-rwa-recursion/docs/ZK-PRET-SCFReimagined-Deck.pptx)
 
 # Video: 
 
