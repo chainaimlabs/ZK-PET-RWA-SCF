@@ -81,7 +81,7 @@ The MINA navigators proposal is to build the following components of the
 ## ZK PRET BUSINESS PROCESS PROVER
 ## ZK PRET RISK MODEL PROVER
 
-## ZK PET DEEP COMPOSITION ENGINE FOR SUPPLY CHAIN FINANCE 
+## ZK PRET DEEP COMPOSITION ENGINE FOR SUPPLY CHAIN FINANCE 
 
 produces proofs for 
 
@@ -105,7 +105,7 @@ e)	financial health proofs about the cash/asset balances and other financial met
 f)	proofs of association (being part of a deep supply chain network)
 the financiers are inclined to support a supplier that participates in the global supply chain of well-known brands for running efficient supply chains
 
-## ZK PET DOMAIN STANDARDS ORACLE REGISTRY
+## ZK PRET DOMAIN STANDARDS ORACLE REGISTRY
 
 This component is a registry of standardized digital negotiable instruments based on evolving regulations in the supply chain finance RWA tokenization space.
 The primary’s business relationships have been with many industry standards groups, which are emerging the standards. 
@@ -115,13 +115,13 @@ These include APIs for standards and data providers in digital trade instruments
 This registry provides validation of the data and the models from the source, which ZK-PET in turn attests and further composes aggregated proofs on them to meet the demands of the verifiers. 
 We expect this to extend into other sources based on some of the MINA ecosystem partners, and other external partners, which we will cover in the ecosystems section (also having discussions with the MINA team on some of the ecosystem details).
 
-## ZK PET BUSINESS PROCESS PROVER
+## ZK PRET BUSINESS PROCESS PROVER
 
 As the standards-based trade instruments are provided, these tokenization workflows need the deep content analysis based on global schema compliance, and attestations on top of them for the execution completeness and the order sequence based on the process definition (including parallelism) for start to end state of the process.
 Per the industry practices, and for financier risk management, the specific templates for types of engagement and payments are modelled, for “negotiable”, non-negotiable types of interactions and any delivery-versus payments contract / guarantees. 
 For a given template, the expected flow is matched against the execution trace – the “witness” trace . The solution uses a standard for modelling these templates and mapping them to convert them into circuits and state-transition checks for producing proofs of execution of expected business processes.
 
-## ZK PET RISK MODEL PROVER 
+## ZK PRET RISK MODEL PROVER 
 
 This module asserts and produces proofs based on the standards evolving in the space of next generation standards management that central banks are starting to use to model financial data and flows, based on credit risk, behavioral risk and market risk. 
 
@@ -145,12 +145,6 @@ Proof 3 is a composed recursive proof for the truth table implemenation.
 
 ALL Proofs at a certain level and below are fully provenanced and provable. 
 
-NEXT STEPS 
-
-Further chaining for   Global Legal Entity Framework ( GLEIF )  for RWA 
-
-and then for financial health, operational excellence and deep supply chain finance ( based on partipation in high performance supply chains) 
-
 # Presentation : 
 
 [SCF-RWA-v1.pptx](https://github.com/user-attachments/files/16574251/SCF-RWA-v1.pptx)
@@ -161,11 +155,12 @@ and then for financial health, operational excellence and deep supply chain fina
 
 https://www.youtube.com/watch?v=lu3P0g7-XgI
 
-
 ![Slide2](https://github.com/user-attachments/assets/35e10b96-eae5-4521-bbe3-0397196dc35c)
+
 ![Slide3](https://github.com/user-attachments/assets/7bb8f4fc-e7f9-49bd-bdd6-1c6e22403368)
-![Slide4](https://github.com/user-attachments/assets/f438cb19-b6aa-430d-a044-c6cf4b483c63)
+
 ![Slide5](https://github.com/user-attachments/assets/d915baa5-ff5f-4a55-9fcb-7a99386253dd)
+
 ![Slide6](https://github.com/user-attachments/assets/55db1c63-9ce1-4e98-847f-9acc73ac3960)
 
 
