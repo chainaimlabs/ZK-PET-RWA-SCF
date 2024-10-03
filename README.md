@@ -136,12 +136,10 @@ The same concepts equally apply to other kinds of insurance for business process
 ![Slide4](https://github.com/user-attachments/assets/1b20e815-42c4-47e5-a750-5f5ecac147b6)
 
 
-![Slide5](https://github.com/user-attachments/assets/c5e6fd04-3d79-4a74-8dd8-57d69202549f)
 
-Proof1 for for Ministry of Corporate Affairs, 
-Proof2 for Directorate of Foreign Trade. 
 
-Proof 3 is a composed recursive proof for the truth table implemenation. 
+
+
 
 ALL Proofs at a certain level and below are fully provenanced and provable. 
 
