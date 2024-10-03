@@ -1,5 +1,5 @@
-# ZK-SCF-RWA
-ZK Proofs for Supply chain Finance RWA
+# ZK-PRET-RWA-SCF
+ZK Proo Engine for Real World Tokenization for Supply Chain Finance
 
 ## KEY PROBLEM
 
